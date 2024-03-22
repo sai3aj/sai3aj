@@ -20,7 +20,7 @@
 
 ## GitHub Stats
 
-![Sairaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SairajBarve&show_icons=true&theme=github_dark_dimmed)
+![Sairaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SairajBarve&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
