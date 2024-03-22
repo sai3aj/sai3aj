@@ -1,4 +1,4 @@
-# Hi👋🏽, I'm Sai3aj!
+# Hi👋🏻, I'm Sai3aj!
 <!--<img align="right" alt="Coding" width="300" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif">-->
 
 
@@ -20,7 +20,7 @@
 
 ## GitHub Stats
 
-![Sairaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SairajBarve&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairaj&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
