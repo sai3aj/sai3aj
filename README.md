@@ -20,7 +20,7 @@
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairaj&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai3aj&show_icons=true&theme=gruvbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
